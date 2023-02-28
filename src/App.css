@@ -1,0 +1,41 @@
+body {
+    padding: 2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+    border: 1px solid #42dada;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+.link {
+    color: #42dada;
+    font-weight: bold;
+    margin-left: 8px;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #24f324;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    margin-top: 16px;
+}
+
+.btn-out {
+    background: blanchedalmond;
+    margin-top: 0;
+    color: black;
+}
